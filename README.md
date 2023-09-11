@@ -1,0 +1,1 @@
+# MongoDB En este proyecto muestro con una base de datos NoSQL y python, como manejar los datos, tratarlos, limpiarlos y actuar sobre ellos a razón de lo que pide el cliente para poder ayudarle en sus decisiones.
